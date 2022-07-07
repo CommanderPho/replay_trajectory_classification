@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../Dropbox/Coding/Scripts/Python"
+		},
+		{
+			"path": "../../../../buzcode"
+		},
+		{
+			"path": "../../../../NGP Rotations Repos/phoCrossDayAlignment"
+		},
+		{
+			"path": "../../../../NGP Rotations Repos/PhoMatlabBBVideoAnalyzer"
+		},
+		{
+			"path": "../../../../NGP Rotations Repos/PhoLezioPupilAnalysis"
+		},
+		{
+			"path": "../../../../NGP Rotations Repos/PhoDibaLab_DataAnalysis"
+		},
+		{
+			"path": "../../../../NGP Rotations Repos/PhoWatsonCommonMatlab"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
